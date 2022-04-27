@@ -1,5 +1,5 @@
-# PHYS_250_demo
-Creating a GitHub account and repo for comp phys demonstration
+# Ethan_Repo_1
+Goal: Creating a GitHub account and repo for comp phys demonstration
 
 And you can type words here grumble sumble bumble
 
