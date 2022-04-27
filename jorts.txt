@@ -2,5 +2,9 @@ jorts is a cat that got buttered, and he did not like that.
 
 he has a sister named jeans. but enough about jorts and jeans.
 
-i've got to fix up the minecraft server soon so my friends and i can log back on and try to beat the game for the millionth time. it isn't normal minecraft; if even one person dies throughout the whole server, the world files delete completely, they are gone forever. it is a lot of fun. bye now.
+i've got to fix up the minecraft server soon so my friends and i can log back on 
+and try to beat the game for the millionth time. 
+it isn't normal minecraft; if even one person dies throughout the whole server, 
+the world files delete completely, they are gone forever. 
+it is a lot of fun. bye now.
 
