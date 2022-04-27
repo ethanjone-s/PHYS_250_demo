@@ -9,3 +9,5 @@ Making this for v2 edits, carry on
 
 Once again I'm just adding stuff to make sure this is all set, bye now
 
+I am Ethan's collaborator. I edited some stuff and things
+This is neato if I do say so myself
